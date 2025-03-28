@@ -42,7 +42,7 @@ public class LoginTest extends TestBase {
 	@Test
 	public void testLogIn()
 	{
-		loginPage.enterEmailInput(ApplicationTestData.userEmail); // Adding for branch policy
+		loginPage.enterEmailInput(ApplicationTestData.userEmail);
 	}
 	
 
